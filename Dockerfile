@@ -4,4 +4,4 @@ RUN yum install -y \
   util-linux \
   procps-ng
 
-CMD sleep 10 && echo 'shceduled job test'
+CMD sleep 5 && echo 'shceduled job test 2'
